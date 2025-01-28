@@ -6,3 +6,5 @@ Added line 5
 xxxxxxxxx
 FRESH GITHUB-ACTIONS PIPELINE
 Final Test
+
+Added line 10th to test with the scedule cron jobs works.
